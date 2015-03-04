@@ -1,0 +1,11 @@
+source 'https://github.com/CocoaPods/Specs.git'
+
+platform :ios, '7.0'
+
+target :Tests do
+    link_with "Tests"
+
+    pod "AFNetworking"
+    pod "NSString-ZENVersions"
+    pod "OHHTTPStubs"
+end
