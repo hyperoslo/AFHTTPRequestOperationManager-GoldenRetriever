@@ -1,11 +1,11 @@
-# AFHTTPRequestOperationManager-GoldenRetriever
+# AFHTTPRequestOperationManager-HYPGoldenRetriever
 
 ## Installation
 
-**AFHTTPRequestOperationManager-GoldenRetriever** is available through [CocoaPods](http://cocoapods.org). To install
+**AFHTTPRequestOperationManager-HYPGoldenRetriever** is available through [CocoaPods](http://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
-`pod 'AFHTTPRequestOperationManager-GoldenRetriever'`
+`pod 'AFHTTPRequestOperationManager-HYPGoldenRetriever'`
 
 ## Author
 
@@ -13,4 +13,4 @@ Hyper AS, teknologi@hyper.no
 
 ## License
 
-**AFHTTPRequestOperationManager-GoldenRetriever** is available under the MIT license. See the LICENSE file for more info.
+**AFHTTPRequestOperationManager-HYPGoldenRetriever** is available under the MIT license. See the LICENSE file for more info.
